@@ -1,4 +1,8 @@
-# SynthWave '84 - VS Code theme
+# SynthWave 2084 - VS Code theme
+<sub><sup>(Forked from <a href="https://github.com/robb0wen/synthwave-vscode">robb0wen/synthwave-vscode</a>)</sup></sub>
+
+This fork aims to remove the need to modify the VSCode installation, by putting al lthe glows in the CSS!
+
 ![Synthwave '84 logo over a cityscape](./banner.png)
 
 Do you remember that endless summer back in '84? Cruising down the ocean-highway with the top down, the wind in our hair and heads buzzing with neon dreams? 
